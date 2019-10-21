@@ -1,2 +1,2 @@
 # Data-Mining
-This repository contains the data mining algorithm from scratch.
+This repository contains the data mining algorithms from scratch.
